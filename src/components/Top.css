@@ -1,0 +1,14 @@
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.next-row{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
