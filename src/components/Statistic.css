@@ -1,0 +1,45 @@
+.statistic-father {
+    display: flex;
+    flex-direction: row;
+}
+
+.block {
+    width: 20%;
+    border: solid 1px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.statistic-img {
+    margin-top: 30%;
+    width: 40%;
+    height: 70px;
+    background-color: white;
+
+    
+}
+
+.statistic-text {
+    background-color: white;
+
+}
+
+.statistic-title {
+    width: 60%;
+    background-color: white;
+    font-size: 13px;
+    margin-bottom: 5px;
+   
+
+}
+
+.statistic-number {
+    width: 50%;
+    background-color: white;
+    font-size: 30px;
+
+}
