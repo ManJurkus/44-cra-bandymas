@@ -5,18 +5,22 @@
 
 .block {
     width: 20%;
-    border: solid 1px;
     height: 250px;
     background-color: white;
     display: flex;
     flex-direction: column;
+    border: 3px solid lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
     
     
 }
 
 .statistic-img {
     margin-top: 30%;
-    width: 40%;
+    width: 65px;
     height: 70px;
     background-color: white;
 
